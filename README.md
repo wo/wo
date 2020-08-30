@@ -1,6 +1,6 @@
 ### Hello 
 
-I am, among other things, lecturer in Philosophy at the University of Edinburgh.
+I am, among other things, a lecturer in Philosophy at the University of Edinburgh.
 
 <!--
 **wo/wo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
